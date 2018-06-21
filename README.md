@@ -1,4 +1,4 @@
-# News Colloector (MongoScrapper
+# News Colloector (MongoScrapper)
 Web scrapper app used built with MongoDB
 
 ## App Summary
