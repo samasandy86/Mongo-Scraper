@@ -1,0 +1,38 @@
+.nav-wrapper {
+    background-color:#ce0606;
+}
+
+.brand-logo{
+    margin-left: 10px;
+}
+
+a#save {
+    margin-left: 10px;
+    
+}
+
+.card-content{
+    background-color: white;
+}
+.card-action{
+    background-color: lightgray;
+}
+.card-action a {
+    color: blue !important;
+}
+
+.card-action a:hover{
+    color: rgb(135, 135, 250) !important;
+}
+
+
+
+
+body {
+    background-image: url("../images/extra-background.jpg");
+}
+
+
+.delete-button {
+    margin-left: 10px;
+}
